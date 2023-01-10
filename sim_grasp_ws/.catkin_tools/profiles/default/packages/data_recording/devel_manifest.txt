@@ -1,0 +1,5 @@
+rosbag_recording_services/data_recording
+/home/ardangle/sim_grasp_ws/devel/.private/data_recording/cmake.lock /home/ardangle/sim_grasp_ws/devel/./cmake.lock
+/home/ardangle/sim_grasp_ws/devel/.private/data_recording/share/data_recording/cmake/data_recordingConfig-version.cmake /home/ardangle/sim_grasp_ws/devel/share/data_recording/cmake/data_recordingConfig-version.cmake
+/home/ardangle/sim_grasp_ws/devel/.private/data_recording/share/data_recording/cmake/data_recordingConfig.cmake /home/ardangle/sim_grasp_ws/devel/share/data_recording/cmake/data_recordingConfig.cmake
+/home/ardangle/sim_grasp_ws/devel/.private/data_recording/lib/pkgconfig/data_recording.pc /home/ardangle/sim_grasp_ws/devel/lib/pkgconfig/data_recording.pc

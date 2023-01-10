@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ardangle/sim_grasp_ws/devel/.private/gazebo_world_plugin_loader/setup.sh

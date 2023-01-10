@@ -1,0 +1,1 @@
+/home/ardangle/sim_grasp_ws/devel/.private/gazebo_grasp_plugin_ros/share/gennodejs/ros/gazebo_grasp_plugin_ros/msg/GazeboGraspEvent.js

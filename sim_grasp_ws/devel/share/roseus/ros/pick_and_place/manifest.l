@@ -1,0 +1,1 @@
+/home/ardangle/sim_grasp_ws/devel/.private/pick_and_place/share/roseus/ros/pick_and_place/manifest.l

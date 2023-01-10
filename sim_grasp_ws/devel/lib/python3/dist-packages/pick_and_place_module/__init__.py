@@ -1,0 +1,1 @@
+/home/ardangle/sim_grasp_ws/devel/.private/pick_and_place/lib/python3/dist-packages/pick_and_place_module/__init__.py

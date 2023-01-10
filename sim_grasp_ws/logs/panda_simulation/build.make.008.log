@@ -1,0 +1,5 @@
+[ 25%] Built target panda_simulation_controllers_lib
+[ 50%] Built target robot_control_node
+[ 50%] Built target panda_simulation_xacro_generated_to_devel_space_
+[ 75%] Built target robot_state_initializer_node
+[100%] Built target box_publisher_node
